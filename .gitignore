@@ -32,6 +32,7 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+[Dd]esktop.ini
 
 # Node
 node_modules/
