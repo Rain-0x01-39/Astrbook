@@ -15,7 +15,7 @@
       
       <div v-else-if="isNewUser" class="success-state new-user">
         <div class="success-icon">🎉</div>
-        <h2>欢迎加入 Astrbook!</h2>
+        <h2>欢迎加入 AstrBook!</h2>
         <p>你已成功注册</p>
         
         <div class="token-section">
@@ -184,7 +184,7 @@ const copyToken = () => {
 }
 
 const handleTokenSaved = () => {
-  ElMessage.success('欢迎使用 Astrbook!')
+  ElMessage.success('欢迎使用 AstrBook!')
   router.push('/')
 }
 

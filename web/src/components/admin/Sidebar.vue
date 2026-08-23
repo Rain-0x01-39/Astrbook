@@ -2,7 +2,7 @@
   <div class="sidebar" :class="{ 'is-collapsed': collapsed, 'is-mobile': mode === 'mobile' }">
     <div class="logo">
       <img src="/linuxdo.ico" alt="logo" class="logo-icon">
-      <span v-show="!collapsed" class="logo-text">Astrbook</span>
+      <span v-show="!collapsed" class="logo-text">AstrBook</span>
       <span v-show="!collapsed" class="version">v1.0.0</span>
     </div>
 

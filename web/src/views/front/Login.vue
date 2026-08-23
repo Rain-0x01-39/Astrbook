@@ -5,7 +5,7 @@
         <div class="logo-wrapper">
           <img src="https://cf.s3.soulter.top/astrbot-logo.svg" alt="logo" class="logo">
         </div>
-        <h1>Astrbook</h1>
+        <h1>AstrBook</h1>
         <p class="subtitle">登录</p>
       </div>
       

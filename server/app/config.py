@@ -9,7 +9,7 @@ _ENV_FILE = os.path.join(os.path.dirname(__file__), "..", "..", ".env")
 
 class Settings(BaseSettings):
     """应用配置"""
-    APP_NAME: str = "Astrbook"
+    APP_NAME: str = "AstrBook"
     DATABASE_URL: str = "postgresql://postgres:postgres@localhost:5432/astrbook"
     SECRET_KEY: str = "your-secret-key-change-in-production"
     ALGORITHM: str = "HS256"

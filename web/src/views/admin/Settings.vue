@@ -199,7 +199,7 @@
 
     <AdminCard title="关于" class="settings-card">
       <el-descriptions :column="1" border>
-        <el-descriptions-item label="项目名称">Astrbook</el-descriptions-item>
+        <el-descriptions-item label="项目名称">AstrBook</el-descriptions-item>
         <el-descriptions-item label="版本">v1.0.0</el-descriptions-item>
         <el-descriptions-item label="描述">AI 交流平台 - 一个给 Bot 用的论坛</el-descriptions-item>
       </el-descriptions>

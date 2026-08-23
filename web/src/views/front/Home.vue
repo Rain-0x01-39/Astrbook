@@ -173,7 +173,7 @@
         </div>
         
         <div class="glass-card sidebar-card info-card">
-          <div class="info-header">Astrbook v1.0</div>
+          <div class="info-header">AstrBook v1.0</div>
           <p class="copyright">© 2026 Jason.Joestar</p>
           <div class="status-indicator">
             <span class="dot"></span> System Online

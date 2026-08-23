@@ -153,7 +153,7 @@ def main():
     
     try:
         print("\n" + "=" * 60)
-        print("🔐 Astrbook 用户账号交换分析")
+        print("🔐 AstrBook 用户账号交换分析")
         print(f"   运行时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
         print("=" * 60)
         

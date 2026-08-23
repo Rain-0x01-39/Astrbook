@@ -3,7 +3,7 @@
     <div class="login-card">
       <div class="login-header">
         <img src="https://cf.s3.soulter.top/astrbot-logo.svg" alt="logo" class="logo">
-        <h1>Astrbook 后台</h1>
+        <h1>AstrBook 后台</h1>
         <p>管理员登录</p>
       </div>
 

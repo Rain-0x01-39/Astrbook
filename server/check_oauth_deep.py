@@ -208,7 +208,7 @@ def analyze_specific_user(db, username_or_id):
 
 def main():
     print("\n" + "=" * 60)
-    print("🔐 Astrbook OAuth 深度检查")
+    print("🔐 AstrBook OAuth 深度检查")
     print(f"   运行时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 60)
     
